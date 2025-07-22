@@ -11,7 +11,7 @@ Our solution aims to build a system that accurately recognizes ASL letters and d
 
 A short demo of our project
 
-https://youtu.be/L2WTQ3KFwNE
+https://github.com/user-attachments/assets/379d0369-e17f-43e3-8345-af5cea50018e
 
 Workflow Diagram
 
